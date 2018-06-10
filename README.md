@@ -17,7 +17,7 @@ Test Files description:
 
 	CheckOut1.feature file contains gherkin steps for adding product to the cart
 	AddToCartTest.java file contains corresponding code for execution gherkin steps
-	RunTest.java is needed for execution tests in command line
+	RunTest.java is needed for execution tests in command line and with Junit
 
 Test Case execution:
 
